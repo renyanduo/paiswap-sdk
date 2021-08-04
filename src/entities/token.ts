@@ -66,7 +66,7 @@ export const WETH = {
   ),
   [ChainId.TESTNET_CHILD_0]: new Token(
     ChainId.TESTNET_CHILD_0,
-    '0x7E6c54211d33c5EEe84Fb39Dbc89ACA8151d5890',
+    '0xfDF091f12AFb7DFbfeAA6d31a50fa11BEbfFAd18',
     18,
     'WPI',
     'Wrapped PI'
