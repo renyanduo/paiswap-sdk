@@ -1,5 +1,5 @@
 {
-  "name": "@paiswap/sdk",
+  "name": "@paiswaptest/sdk",
   "license": "MIT",
   "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of Paiswap.",
@@ -26,7 +26,6 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@paiswap/sdk": "^1.0.1",
     "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
